@@ -56,4 +56,3 @@ A set is a collection of objects
 
 If $A$ is a set and $a$ is an element, $a \in A$ means $a$ is an element of $A$ (or $a$ in $A$)
 
-
