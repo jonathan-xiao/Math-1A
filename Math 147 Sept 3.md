@@ -7,7 +7,7 @@ A mathematical statement is either true or false, meaning it has a truth value o
 - All primes are odd is false
 - $x > 0$ is not a statement because it can be both depending on $x$
 
-If $p$ is a statement, then $\lnot p$ is the negation
+If $p$ is a statement, then $\lnot p$ is the negation. They must have opposite truth values. 
 
 If $p$ and $q$ are statements, then $p \land q$ is the conjunction
 
