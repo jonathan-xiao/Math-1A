@@ -55,5 +55,3 @@ A set is a collection of objects
 - For example, $\mathbb{Z} = \\{ ... , -1, 0, 1, 2, ...\\}$ is a set
 
 If $A$ is a set and $a$ is an element, $a \in A$ means $a$ is an element of $A$ (or $a$ in $A$)
-
-
