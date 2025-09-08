@@ -7,7 +7,15 @@ A mathematical statement is either true or false, meaning it has a truth value o
 - All primes are odd is false
 - $x > 0$ is not a statement because it can be both depending on $x$
 
-If $p$ is a statement, then $\lnot p$ is the negation
+If $p$ is a statement, then $\lnot p$ is the negation. They must have opposite truth values. 
+
+| $p$ | $\neg$ $p$ |
+|---|---|
+|T|F|
+|F|T|
+
+
+
 
 If $p$ and $q$ are statements, then $p \land q$ is the conjunction
 
@@ -55,4 +63,3 @@ A set is a collection of objects
 - For example, $\mathbb{Z} = \\{ ... , -1, 0, 1, 2, ...\\}$ is a set
 
 If $A$ is a set and $a$ is an element, $a \in A$ means $a$ is an element of $A$ (or $a$ in $A$)
-
