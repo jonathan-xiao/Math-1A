@@ -74,6 +74,20 @@ This means we can conclude that $-0 = 0$.
 
 ## Theorem 1.3
 
+For all $x \in F$, $x(0)=0$. 
+
+### Proof
+
+$$\begin{aligned}
+0 &= 0 + 0 \\
+0(x) &= (0+0)x \\
+0(x) &= 0(x) + 0(x) \\
+0(x) + (-0(x)) &= 0(x) + 0(x) +(-0(x)) \\
+0 &= 0(x)
+\end{aligned}$$
+
+## Theorem 1.4
+
 Let $F$ be a field. For any $x \in F$, $-x = (-1)x = x(-1)$. 
 
 ### Proof
@@ -93,25 +107,9 @@ $$\begin{aligned}
 &= c(0)
 \end{aligned}$$
 
-Now we make use of a lemma. 
+Now we make use of Theorem 1.3.
 
-### Lemma
-
-For all $x \in F$, $x(0)=0$. 
-
-#### Proof
-
-$$\begin{aligned}
-0 &= 0 + 0 \\
-0(x) &= (0+0)x \\
-0(x) &= 0(x) + 0(x) \\
-0(x) + (-0(x)) &= 0(x) + 0(x) +(-0(x)) \\
-0 &= 0(x)
-\end{aligned}$$
-
-Therefore, in the previous, $-1(c) + c = 0$. 
-
-So, $-1(c)$ is the additive inverse of $c$, meaning that $-c = (-1)c = c(-1)$. Since $c$ is an arbitrary number in $F$, then the theorem is proved. 
+Therefore, $-1(c) + c = 0$. So, $-1(c)$ is the additive inverse of $c$, meaning that $-c = (-1)c = c(-1)$. Since $c$ is an arbitrary number in $F$, then the theorem is proved. 
 
 
 
