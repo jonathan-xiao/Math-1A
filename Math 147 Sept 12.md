@@ -85,6 +85,19 @@ $$F^- = \\{x : x < 0\\}$$
 
 We say $x$ is positive if $x \in F^+$ and $x$ is negative if $x \in F^-$. For any $x$ is exactly one of the following: either positive, negative, or 0. 
 
+## Theorem 1.8
+
+Let $(F, \leq)$ be an ordered field, $\forall a,b,c \in F$ we have:
+
+1. If $a \leq b$ then $-b \leq -a$.
+2. If $a \leq b$ and $c \leq 0$ then $bc \leq ac$.
+3. If $0 \leq a$ and $0 \leq b$ then $0 \leq ab$
+4. $0 \leq a^2$
+5. $0 < 1$
+6. If $0 < a$ then $0 < a^{-1}$
+7. If $0 < a < b$ then $0 < b^{-1} < a^{-1}$
+
+
 
 
 
