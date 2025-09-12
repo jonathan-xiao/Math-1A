@@ -65,7 +65,7 @@ If $p|a_k$, then we know $p|a_k$. Otherwise, then $p|a_i$ for some $i$.
 
 ## Unique Factorization Theorem
 
-Let $n$ be an integer and $n \geq 2$. Then $n$ factors uniquely into a product of positive primes. Then, \exists p_i$ positive primes s.t. 
+Let $n$ be an integer and $n \geq 2$. Then $n$ factors uniquely into a product of positive primes. Then, $\exists p_i$ positive primes s.t. 
 
 $$n = \prod_{i=1}^{r} p_i$$
 
