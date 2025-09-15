@@ -76,6 +76,38 @@ We have the integers, where $f(x) = |x|$.
 
 We have $\mathbb{Z}\[i\]$, where $f(x+yi) = x^2+y^2$. 
 
+## Lemma
+
+Let $(R, f)$ be a Euclidean Domain.
+
+1. $f(0) < f(1) \leq f(a) \space \forall a \neq 0$
+2. If $a,b \neq 0 \implies f(a) = f(ab)$ iff $b \in R^*$
+3. If $a \neq 0$ then $f(a) = f(1)$ iff $a \in R^*$
+
+### Proof 1
+
+Since $1|a \implies f(1) \leq f(1 \cdot a)$ by axiom 1.
+
+Let $1 = 1 \cdot q + r$ where $f(r) < f(1)$. If $r \neq 0$ then $f(r) \geq f(1)$ by axiom 1. Therefore $r = 0$. Hence $f(0) < f(1)$. 
+
+### Proof 2
+
+If $b \in R^*$ then since the set $R^\*$ contains all elements that divide 1, then $b|1$. Therefore, we have:
+
+$$a = abb^{-1} \implies f(ab) \leq f(a) \leq f(ab)$$
+
+Therefore $f(a) = f(ab)$. 
+
+For the converse, suppose $f(a) = f(ab)$.  
+
+We have $a = abq + r \implies r = a(1-bq)$ 
+
+The first equation tells us that $f(r) < f(ab) = f(a)$ by the second axiom. The second tells us that $a|r$ so $f(a) \leq f(r)$. 
+
+This means $r=0$, so $a = abq$ and $1 = bq$. By the previous, then $b|1$ and so $b \in R^*$. 
+
+
+
 
 
 
