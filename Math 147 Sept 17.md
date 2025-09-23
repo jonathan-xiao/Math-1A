@@ -22,7 +22,7 @@ With a set in $\mathbb{Q}$ like $\[0, 1)$, there is no maximum. For every ration
 
 Let $L$ be a total order. Suppose that $A \subseteq L$. Then, we have:
 
-1. The element $x \in L$ is an upper bound for $A$ if $forall a \in A$, $x \geq a$. This element does not need to be in $A$.
+1. The element $x \in L$ is an upper bound for $A$ if $\forall a \in A$, $x \geq a$. This element does not need to be in $A$.
 2. If an upper bound exists, then $A$ is bounded above by $x$.
 3. Define the set:
 
