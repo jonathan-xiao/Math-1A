@@ -10,7 +10,7 @@ $a \leq b$ and $c \leq b$. By the properties of ordering, we have $a+c \leq b+c$
 
 Let $F$ be an ordered field. Then the absolute value of an element $a$ is defined as 
 
-$$|a| \begin{cases} 
+$$|a| = \begin{cases} 
       a & a \geq 0 \\
       -a & a \leq 0
    \end{cases}
