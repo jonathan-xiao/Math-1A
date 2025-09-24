@@ -23,7 +23,7 @@ This double counting is permitted because $-0 = 0$.
 Let $F$ be an ordered field. For all $a,b \in F$:
 
 1. $0 \leq |a|$
-2. $\pm \leq |a|$
+2. $\pm a \leq |a|$
 3. $|ab| = |a||b|$
 4. $|a+b| \leq |a| + |b|$
 
