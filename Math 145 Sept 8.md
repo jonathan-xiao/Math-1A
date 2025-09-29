@@ -22,7 +22,7 @@ We know that $b = an$ and $c = am$ where $n,m \in \mathbb{Z}$. This implies that
 
 By the lemma, then if $p_n | n!$, $p_n | (x - n!)$ or $p_n | 1$. This is impossible, since all positive primes are larger than 1. 
 
-This means that for any $n$, then $\exists p_n > n!$. The list of primes is infinite. 
+This means that for any $n$, then $\exists p > n!$. The list of primes is infinite. 
 
 ## Density of Primes
 
