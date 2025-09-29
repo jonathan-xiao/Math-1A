@@ -36,7 +36,7 @@ Suppose $a_n \to L$. Fix $\epsilon > 0$. Then $\exists N$ s.t. $\forall n > N$, 
 Let $n,m > N$. By the triangle inequality:
 
 $$\begin{aligned}
-|a_n-a_m| $\leq |a_n-L|+|a_m-L| \\
+|a_n-a_m| &\leq |a_n-L|+|a_m-L| \\
 &< \frac{\epsilon}{2} + \frac{\epsilon}{2} \\
 &= \epsilon
 \end{aligned}$$
