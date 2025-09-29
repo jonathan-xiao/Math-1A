@@ -71,7 +71,7 @@ $$\begin{aligned}
 &= |L|
 \end{aligned}$$
 
-This is a contradiction, so $\forall n >N$, that $|a_n > \frac{|L|}{2}$.
+This is a contradiction, so $\forall n >N$, that $|a_n| > \frac{|L|}{2}$.
 
 Now consider $m = \min(\\{|a_n|:n \leq N\\} \cup \\{\frac{|L|}{2}\\})$. 
 
