@@ -80,7 +80,7 @@ $$s_N - \epsilon \leq \inf T_N = b_N$$
 
 This means $s_N \leq b_N + \epsilon$. In a comparison across, we have
 
-$$\lim \sup a_n \leq s_N \leq b_N + \epsilon \leq \lim \inf + \epsilon$$
+$$\lim \sup a_n \leq s_N \leq b_N + \epsilon \leq \lim \inf a_n + \epsilon$$
 
 The supremum must be larger than the infimum, so we have both $\lim \sup a_n \leq \lim \inf a_n$ and $\lim \inf a_n \leq \lim \sup a_n$.
 
