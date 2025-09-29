@@ -116,7 +116,7 @@ $$\lim_{n \to \infty} a_nb_n = \infty$$
 
 Let $M>0$ be arbitrary. Pick some $0 < m < L$. Since $b_n \rightarrow L$ and $b_n > 0$, then $\exists N_1$ s.t. $\forall n > N_1$, $b_n > m$. Since $a_n \rightarrow \infty$, then $\exists N_2$ s.t. $\forall n > N_2$, $a_n > \frac{M}{m}$. 
 
-Let $N = \max(N_1, N_2)$. Then $\forall n > N$ we have $a_nb_n > \frac{M}{m} \cdot M = M$. 
+Let $N = \max(N_1, N_2)$. Then $\forall n > N$ we have $a_nb_n > \frac{M}{m} \cdot m = M$. 
 
 ## Theorem
 
