@@ -100,7 +100,7 @@ If $n_k$ is a strictly increasing sequence of natural numbers, then $k \leq n_k$
 
 Let $a_n$ be Cauchy and $a_{n_k}$ be a subsequence. Fix $\epsilon > 0$. Consider $N$ s.t. $\forall n,m > N$, $|a_n-a_m| < \epsilon$. 
 
-Let $k,j$ be natural numbers such that $N < k \leq m_k$ and $N < j \leq n_j$. Since they are past $N$, then $|a_{m_k} - a_{n_j}| < \epsilon$. 
+Let $k,j$ be natural numbers such that $N < k \leq n_k$ and $N < j \leq n_j$. Since they are past $N$, then $|a_{n_k} - a_{n_j}| < \epsilon$. 
 
 
 
