@@ -103,7 +103,7 @@ if for all $m > 0$ $\exists N$ s.t. $\forall n > N$ we have $a_n > M$.
 
 ## Theorem
 
-Let $a_n, b_n$ be seuqneces s.t. 
+Let $a_n, b_n$ be sequences s.t. 
 
 $$\lim_{n \to \infty} a_n = \infty$$
 $$\lim_{n \to \infty} b_n > 0$$
