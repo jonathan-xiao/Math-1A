@@ -1,6 +1,6 @@
 ## Theorem
 
-$$\lim_{b \to \infty} \frac{2n-7}{3n^3-2}=0$$
+$$\lim_{n \to \infty} \frac{2n-7}{3n^3-2}=0$$
 
 ### Proof
 
