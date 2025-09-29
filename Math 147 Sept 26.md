@@ -70,7 +70,7 @@ Let $a_n$ be a Cauchy sequence, which we know is bounded by before. Therefore, b
 
 Fix $\epsilon > 0$. Consider $N$ s.t. $\forall n,m > N$, then $|a_n-a_m|<\epsilon$. 
 
-Fix $m > N$. Then $a_m + \epsilon$ is an upper bound for the $N$th tail. The supremum of the $N$th tail is the smallest upper bound, so:
+Fix $m > N$. Then $a_m + \epsilon$ is an upper bound for the $N$-th tail. The supremum of the $N$-th tail is the smallest upper bound, so:
 
 $$s_N = \sup T_N \leq a_m + \epsilon$$
 
