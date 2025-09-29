@@ -6,7 +6,7 @@ If $a_n$ is not bounded above, then $\sup T_N = \infty$ so $\lim \sup a_n = \inf
 
 ## Theorem
 
-If $\lim \inf a_n = \lim \sup a_n$ then $\lim a_n$ is defined and $\lim \sup a_n = \lim_{n \to \infty} a_n = \lim \inf a_n$. 
+If $\lim \inf a_n = \lim \sup a_n$ then $\lim a_n$ is defined and $\lim \sup a_n = \lim_{n \to \infty} \space a_n = \lim \inf a_n$. 
 
 ### Proof
 
