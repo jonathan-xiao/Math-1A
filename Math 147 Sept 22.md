@@ -82,8 +82,8 @@ Therefore, $a_n \in (L-1, L+1)$, which is to say $L-1 < a_n < L+1$.
 
 Let:
 
-$$B = \max(\\{a_n: \leq N \\} \cup \\{L+1\\})$$
-$$C = \min(\\{a_n: \leq N \\} \cup \\{L-1\\})$$
+$$B = \max(\\{a_n: n\leq N \\} \cup \\{L+1\\})$$
+$$C = \min(\\{a_n: n\leq N \\} \cup \\{L-1\\})$$
 
 This means $\forall n$, $C \leq a_n \leq B$. Hence the set and the limit are bounded.
 
