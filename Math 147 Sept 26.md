@@ -2,7 +2,7 @@
 
 If $a_n$ is bounded, then $\sup T_N$ and $\inf T_N$ (the tails of the sequence after $N$) are finite and bounded. Both the supremum and the infimum of the tails of $a_n$ are bounded and monotonic. This means that $\lim \sup a_n$ and $\lim \inf a_n$ are finite and bounded. 
 
-If $a_n$ is not bounded above, then $\sup T_N = \infty$ so $\lim sup a_n = \infty$. Then $\lim inf a_n = \infty$ also. The same situation applies oppositely for $a_n$ not bounded below.
+If $a_n$ is not bounded above, then $\sup T_N = \infty$ so $\lim \sup a_n = \infty$. Then $\lim \inf a_n = \infty$ also. The same situation applies oppositely for $a_n$ not bounded below.
 
 ## Theorem
 
