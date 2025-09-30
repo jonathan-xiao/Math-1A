@@ -58,7 +58,7 @@ The last nonzero $r_i$ is the gcd of $a,b$.
 
 ## Formal Euclidean Algorithm
 
-Given $a,b$ are positive integers and $>b$, use the division algorithm to get $r_i$ for all $1 \leq i \leq k+1$ where $r_{k+1}=0$. 
+Given $a,b$ are positive integers and $a>b$, use the division algorithm to get $r_i$ for all $1 \leq i \leq k+1$ where $r_{k+1}=0$. 
 
 Then we have gcd($a,b$) = $r_k$ and every common divisor of $a$ and $b$ divides this gcd. Also, $\exists s,t \in \mathbb{Z}$ s.t. gcd($a,b$) = $as + bt$. (It can be linearized)
 
