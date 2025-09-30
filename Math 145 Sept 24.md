@@ -73,7 +73,7 @@ $ax \equiv b \mod n \Longleftrightarrow ax + yn = b$. There is a solution only i
 $$x = x_0 + \frac{n}{d}k$$
 $$y = y_0 - \frac{a}{d}k$$
 
-In the first, we can see that $x$ will be a unique solution mod $\frac{n}{d]$. 
+In the first, we can see that $x$ will be a unique solution mod $\frac{n}{d}$. 
 
 ## Fermat's Little Theorem
 
