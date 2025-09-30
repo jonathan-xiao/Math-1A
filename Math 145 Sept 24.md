@@ -88,7 +88,6 @@ $\\{[1], [2], ..., [p-1]\\}$ = $\\{[a], [2a], ..., [a(p-1)]\\}$ up to a rearrang
 Then:
 
 $$\begin{aligned}
-
 (p-1)! &\equiv \prod_{i=1}^{p-1}a_i \\
 (p-1)! &\equiv a^{p-1}(p-1)! \\
 1 &\equiv a^{p-1}
