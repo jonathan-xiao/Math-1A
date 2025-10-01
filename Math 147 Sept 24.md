@@ -99,7 +99,7 @@ For a sequence $a_n$ we write
 
 $$\lim_{n \to \infty} a_n = \infty$$
 
-if for all $m > 0$ $\exists N$ s.t. $\forall n > N$ we have $a_n > M$. 
+if for all $M > 0$ $\exists N$ s.t. $\forall n > N$ we have $a_n > M$. 
 
 ## Theorem
 
