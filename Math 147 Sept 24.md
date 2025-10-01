@@ -61,7 +61,7 @@ Let $a_n \rightarrow L$. Suppose that for all $n$, $a_n \neq 0$ and $L \neq 0$. 
 
 ### Proof
 
-Since $a_n \rightarrow L$ then $\exists N$ s.t. $\forall n > N$ we have $|a_n-L| \leq \frac{|L|}{2}$. 
+Since $a_n \rightarrow L$ then $\exists N$ s.t. $\forall n > N$ we have $|a_n-L| < \frac{|L|}{2}$. 
 
 Assume that $\forall n >N$, that $|a_n| \leq \frac{|L|}{2}$. Then we have:
 
