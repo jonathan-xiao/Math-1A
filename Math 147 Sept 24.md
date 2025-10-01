@@ -157,7 +157,7 @@ If $A \subseteq B$ then we know:
 $$\inf(A) \geq \inf(B)$$
 $$\sup(A) \leq \sup(B)$$
 
-Consider $s_N = \sup\\{a_n : a > N\\}$. 
+Consider $s_N = \sup\\{a_n : n > N\\}$. 
 
 This is a set of sequences of elements in the sequence where the index is after a particular $N$ ("tails"). 
 
