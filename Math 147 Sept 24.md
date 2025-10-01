@@ -75,7 +75,7 @@ This is a contradiction, so $\forall n >N$, we have that $|a_n| > \frac{|L|}{2}$
 
 Now consider $m = \min(\\{|a_n|:n \leq N\\} \cup \\{\frac{|L|}{2}\\})$. 
 
-Well $|a_n|$ is larger than $\frac{|L|}{2}$ so this $m$ is smaller than every $|a_n|$. Since $a_n \neq 0$ then $m \neq 0$. Every $|a_n|$ is positive, and so $m$ is positive also.
+This $m$ is smaller than every $|a_n|$. Since $a_n \neq 0$ then $m \neq 0$. Every $|a_n|$ is positive, and so $m$ is positive also.
 
 Well if $m$ is a minimum and greater than zero, we have: $\inf\\{|a_n| : n \in \mathbb{N}\\} \geq m >0$.
 
