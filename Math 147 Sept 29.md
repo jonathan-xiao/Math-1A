@@ -117,7 +117,7 @@ Suppose that $a_{n_k}$ is defined so that
 
 $$L - \frac{1}{j} < a_{n_j} < L + \frac{1}{j}$$
 
-Since $X_{\frac{1}{k+1}}$ is infinite, $\exists n_{k+1}$ larger than all the $n_j$ s.t. 
+so that this is true for all $a_1 \leq a_{n_j} \leq a_{n_k}$. Since $X_{\frac{1}{k+1}}$ is infinite, $\exists n_{k+1}$ larger than all the $n_j$ s.t. 
 
 $$L - \frac{1}{k+1} < a_{n_{k+1}} < L + \frac{1}{k+1}$$
 
