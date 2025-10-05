@@ -149,7 +149,7 @@ Therefore, $\sup T_N < L+\epsilon$ for $n > N_0 + 1$ so $a_n < L+\epsilon$.
 
 Suppose that there are finite natural numbers $n$ where $|a_n - L| < \epsilon$. Then $\exists N_1 > N_0$ s.t. $\forall n > N_1$ we have $|a_n - L| \geq \epsilon$. We go past the last value where $|a_n - L| < \epsilon$ is true.
 
-So $a_n \leq L + \epsilon$, rejecting the higher case. Therefore, $\sup T_N \leq L - \epsilon$ so $\lim \sup a_n \leq L - \epsilon$. This is a contradiction against $\lim \sup a_n = L$. 
+So $a_n \leq L - \epsilon$, rejecting the higher case. Therefore, $\sup T_N \leq L - \epsilon$ so $\lim \sup a_n \leq L - \epsilon$. This is a contradiction against $\lim \sup a_n = L$. 
 
 ## Theorem
 
