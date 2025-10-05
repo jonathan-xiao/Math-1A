@@ -69,7 +69,7 @@ $\mathbb{R}$ is complete.
 
 Suppose that $a_n$ is Cauchy. We know that $a_n$ has a monotonic subsequence. Such a subsequence must be Cauchy itself, and as such it is bounded. 
 
-Every bounded subsequence that is Cauchy must converge. Therefore, if the subsequence converges, the $a_n$ converges. 
+Every bounded subsequence that is Cauchy must converge. Therefore, if the subsequence converges, then $a_n$ converges. 
 
 ## Theorem
 
