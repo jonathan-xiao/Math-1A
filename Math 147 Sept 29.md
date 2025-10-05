@@ -111,7 +111,7 @@ $$X_\epsilon = \\{ n \in \mathbb{N}: |a_n - L| < \epsilon\\}$$
 
 Forward. $L$ is a subsequential limit of $a_n$ so there are infinite values of $a_{n_k}$ s.t. $|a_{n_k} - L| < \epsilon$ for any $\epsilon > 0$. 
 
-Backward. Suppose that $X_\epsilon$ is infinite for any $\epsilon$. Define $L - 1 < a_{n_1} < L+1$. 
+Backward. Suppose that $X_\epsilon$ is infinite for any $\epsilon>0$. Define $L - 1 < a_{n_1} < L+1$. 
 
 Suppose that $a_{n_k}$ is defined so that 
 
