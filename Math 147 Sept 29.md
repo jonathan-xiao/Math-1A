@@ -103,7 +103,7 @@ Therefore, $b_n \in (L-\epsilon, L+\epsilon)$. So $b_n \to L$.
 
 ## Theorem
 
-$L$ is a subsequential limit of $a_n$ iff $\forall \epsilon > 0$ then the following set is infinite.
+$L$ is a subsequential limit of $a_n$ iff $\forall \epsilon > 0$ the following set is infinite.
 
 $$X_\epsilon = \\{ n \in \mathbb{N}: |a_n - L| < \epsilon\\}$$
 
