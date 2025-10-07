@@ -95,7 +95,7 @@ $$\implies \lim_{n \to \infty} b_n = L$$
 
 Fix $\epsilon > 0$. We know that then $\exists N_1$ s.t. $\forall n > N_1$ then $|a_n - L| < \epsilon$. 
 
-Also, $\exists N_2$ s.t. $\forall n > N_2$ then $|a_n - L| < \epsilon$. 
+Also, $\exists N_2$ s.t. $\forall n > N_2$ then $|c_n - L| < \epsilon$. 
 
 Therefore pick $N = \max(N_1, N_2)$. We have $L - \epsilon < a_n \leq b_n \leq c_n < L + \epsilon$. 
 
