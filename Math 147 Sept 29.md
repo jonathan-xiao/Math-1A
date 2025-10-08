@@ -99,7 +99,7 @@ Also, $\exists N_2$ s.t. $\forall n > N_2$ then $|c_n - L| < \epsilon$.
 
 Therefore pick $N = \max(N_1, N_2)$. We have $L - \epsilon < a_n \leq b_n \leq c_n < L + \epsilon$. 
 
-Therefore, $b_n \in (L-\epsilon, L+\epsilon)$. So $b_n \to L$. 
+Therefore, $b_n \in (L-\epsilon, L+\epsilon)$ $\forall n > N$. So $b_n \to L$. 
 
 ## Theorem
 
