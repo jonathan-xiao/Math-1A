@@ -65,7 +65,7 @@ $$\neg (p \to q) \equiv p \land \neg q$$
 
 Let $K \subseteq \mathbb{R}$. Let $a$ be a limit point of $K$ and let $f: K \to \mathbb{R}$. TFAE:
 
-1. $$\lim_{x \to a} f(x) = L$
+1. $\lim_{x \to a} f(x) = L$
 2. For each sequence $x_n$ with $x_n \neq a$ and $x_n \to a$ then $\lim_{n \to \infty} f(x_n) = L$
 3. For each sequence $x_n$ of distinct points in $K$ and $x_n \to a$ then $\lim_{n \to \infty} f(x_n) = L$
 
