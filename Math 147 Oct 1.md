@@ -20,7 +20,7 @@ $$\begin{aligned}
 
 Then we have:
 
-$$s_k = (1 - \frac{1}{2}) + (\frac{1}{2} - \frac{1}{3}) + ... + (\frac{1}{k} - \frac{1}{k+1}) \\$$
+$$s_k = (1 - \frac{1}{2}) + (\frac{1}{2} - \frac{1}{3}) + ... + (\frac{1}{k} - \frac{1}{k+1}) $$
 
 Note that $s_k$ is finite, so using associativity is allowed. On an infinite series, using arithmetic laws must be done with caution. Note the cancellation of terms. 
 
